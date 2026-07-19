@@ -5,10 +5,10 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+  "server":LIFE_SMP_MINECRAFT.aternos.me {
+    "ip": "",
+    "port": 62691,
+    "version":2.26 ""
   },
   "position": {
     "enabled": true,
